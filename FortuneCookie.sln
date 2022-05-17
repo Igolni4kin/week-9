@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortuneCookie", "FortuneCookie\FortuneCookie.csproj", "{8C579A76-AB83-4AE5-B714-0A54D6D26121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatterOfTaste", "MatterOfTaste\MatterOfTaste.csproj", "{26C1ED43-4D9F-49F6-9A3E-8FD7705DD342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C579A76-AB83-4AE5-B714-0A54D6D26121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C579A76-AB83-4AE5-B714-0A54D6D26121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C579A76-AB83-4AE5-B714-0A54D6D26121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C579A76-AB83-4AE5-B714-0A54D6D26121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C1ED43-4D9F-49F6-9A3E-8FD7705DD342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C1ED43-4D9F-49F6-9A3E-8FD7705DD342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C1ED43-4D9F-49F6-9A3E-8FD7705DD342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C1ED43-4D9F-49F6-9A3E-8FD7705DD342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {604C1CC7-FD9D-4A8E-8AA9-1CAF7B956435}
+	EndGlobalSection
+EndGlobal

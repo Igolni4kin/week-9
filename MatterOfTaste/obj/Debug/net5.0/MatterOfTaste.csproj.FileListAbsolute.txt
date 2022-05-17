@@ -1,0 +1,15 @@
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.exe
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.deps.json
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.runtimeconfig.json
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.runtimeconfig.dev.json
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.dll
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\bin\Debug\net5.0\ref\MatterOfTaste.dll
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\bin\Debug\net5.0\MatterOfTaste.pdb
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.AssemblyInfoInputs.cache
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.AssemblyInfo.cs
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.csproj.CoreCompileInputs.cache
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.dll
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\obj\Debug\net5.0\ref\MatterOfTaste.dll
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.pdb
+C:\Users\37255\source\repos\FortuneCookie\MatterOfTaste\obj\Debug\net5.0\MatterOfTaste.genruntimeconfig.cache
